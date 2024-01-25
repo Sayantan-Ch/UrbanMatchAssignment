@@ -10,8 +10,8 @@ A new Flutter project for Urban Match Assignment
 
 ## Application Details 
 
-Feature 1: Fetch All Repositories of a account
-Feature 2: Fetch All the commits of each repository. Displays only last commit 
-Feature 3: Error and Exception Handling Included
+<b>Feature 1:</b> Fetch All Repositories of a account<br />
+<b>Feature 2:</b> Fetch All the commits of each repository. Displays only last commit<br /> 
+<b>Feature 3:</b> Error and Exception Handling Included<br />
 
 
