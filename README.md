@@ -3,10 +3,10 @@
 A new Flutter project for Urban Match Assignment 
 
 ## About Me 
-Sayantan Chatterjee 
-Email: sayantan1298@gmail.com
-Resume: https://drive.google.com/file/d/1V4z9uvvX0cuyN6KEuCD8vUHVEgnomVU4/view?usp=share_link
-Phone Number: +91-8073914145
+<b>Sayantan Chatterjee</b> <br />
+<b>Email:</b> sayantan1298@gmail.com <br />
+<b>Resume:</b> https://drive.google.com/file/d/1V4z9uvvX0cuyN6KEuCD8vUHVEgnomVU4/view?usp=share_link <br />
+<b>Phone Number:</b> +91-8073914145
 
 ## Application Details 
 
